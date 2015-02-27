@@ -75,7 +75,7 @@ GitHub + [prose.io](http://prose.io) 可以像普通的带有数据库的博客�
 
 -----
 
-
+以下是文章列表功能示例。请按照需要改更 `site.categories.xxx` 中的 `xxx`，`xxx` 需要与你的 `_posts` 目录中的文章的 metadata 中的 `categories` 对应起来。
 
 
 

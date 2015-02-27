@@ -26,6 +26,8 @@ title: Today I Learned
 
 </div>
 
+这是一个 TIL 页面的示例。每次在同一个文件中添加了内容，请修改 `modified:` 的时间来让这个新内容进入都首页的最新文章展示。
+
 
 {% if site.categories.til.size %}
 ## 共有 {{ site.categories.til.size }} 条 TIL

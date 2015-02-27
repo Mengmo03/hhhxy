@@ -47,7 +47,7 @@ owner:
   avatar: logo-120x120.png # 160x160 px image for author byline
   weibo: 星际移民中心  # 这是微博账号，星际移民中心 只是个例子
 disqus-shortname: xxxxxx  # 这是你的 disqus 评论框的代码，如果使用英文模板请填写
-duoshuo-shortname: xxxxxx # 请填写。这是你的 duoshuo 代码，中文模板请填写
+duoshuo-shortname: planets-jekyll # 请填写。这是你的 duoshuo 代码，中文模板请填写
 
 
 
