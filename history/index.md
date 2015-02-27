@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: 
+title: 星际移民的科学
 ---
 
 
 
 
-## 星际移民的历史
+
 
 {% if site.categories.history.size %}
 共有 {{ site.categories.history.size }} 篇历史类文章

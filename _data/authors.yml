@@ -1,3 +1,15 @@
+example:
+    name: First Name
+    display_name: DisplayName # 这是真的显示的名字
+    gravatar:  # 国内网络环境请勿使用，因为已经被墙了
+    avatar: interimm.png # 这是你的头像的文件名。头像在 `images/authors` 目录中。无需填写目录，只需填写文件名称。
+    email: example@company.com   
+    web: http://example.com
+    weibo: http://www.weibo.com/iiaofficial # 微博链接
+    bio: "这是一段介绍，显示在作者名片中"
+    douban: # 豆瓣链接
+    twitter: 
+    github: 
 OctoMiao:
     name: OctoMiao
     display_name: 章鱼喵
@@ -60,9 +72,13 @@ InterImm:
     github: 
 example:
     name: First Name
-    display_name: DisplayName
-    gravatar: 
-    email: example@company.com
+    display_name: DisplayName # 这是真的显示的名字
+    gravatar:  # 国内网络环境请勿使用，因为已经被墙了
+    avatar: interimm.png # 这是你的头像的文件名。头像在 `images/authors` 目录中。无需填写目录，只需填写文件名称。
+    email: example@company.com   
     web: http://example.com
+    weibo: http://www.weibo.com/iiaofficial # 微博链接
+    bio: "这是一段介绍，显示在作者名片中"
+    douban: # 豆瓣链接
     twitter: 
     github: 
