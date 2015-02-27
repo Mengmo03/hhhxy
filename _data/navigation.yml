@@ -14,9 +14,6 @@
   url: /history/
   excerpt: "星际移民的历史"
 
-- title: 圆桌
-  url: /club/
-  excerpt: "星际圆桌"
 
 - title: TIL
   url: /til/
@@ -24,10 +21,10 @@
 
 - title: 关于
   url: /about/
-  excerpt: "关于这本杂志"
+  excerpt: "关于页面示例"
 
 
-- title: 星际移民中心
-  url: http://interimm.org/
-  excerpt: "致力于星际移民"
+- title: Fork on GitHub
+  url: https://github.com/emptymalei/planets-jekyll
+  excerpt: "GitHub 上的源文件"
 
