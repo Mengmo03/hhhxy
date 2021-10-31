@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 星际移民的科学
+title: 新闻
 ---
 
 
@@ -10,7 +10,7 @@ title: 星际移民的科学
 
 
 {% if site.categories.science.size %}
-共有 {{ site.categories.science.size }} 篇科学类文章
+共有 {{ site.categories.science.size }} 篇新闻
 		{% else %}
 暂无文章
 		{% endif %}
