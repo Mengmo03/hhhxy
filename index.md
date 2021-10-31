@@ -85,48 +85,52 @@ GitHub + [prose.io](http://prose.io) 可以像普通的带有数据库的博客�
 
 
 
-## 近期科学
+## 最新新闻
 
 <div class="tiles">
-{% for post in site.categories.science limit:5 %}
+{% for post in site.categories.news limit:5 %}
 	{% include post-list-cn.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
-<a href="./science/">查看所有科学（共 {{ site.categories.science.size }} 篇）</a>
-
-## 近期故事
-
-<div class="tiles">
-
-{% for post in site.categories.stories limit:5 %}
-	{% include post-list-cn.html %}
-{% endfor %}
-
-</div><!-- /.tiles -->
-
-
-
-	{% if site.categories.stories.size %}
-<a href="./stories/">查看所有故事（共 {{ site.categories.stories.size }} 篇）</a>
+	{% if site.categories.news.size %}
+<a href="./stories/">查看所有（共 {{ site.categories.stories.size }} 篇）</a>
 		{% else %}
-暂无故事类文章
+暂无数据
+		{% endif %}
+
+## 疫情防控
+
+<div class="tiles">
+
+{% for post in site.categories.covid limit:5 %}
+	{% include post-list-cn.html %}
+{% endfor %}
+
+</div><!-- /.tiles -->
+
+
+
+	{% if site.categories.covid.size %}
+<a href="./stories/">查看所有（共 {{ site.categories.stories.size }} 篇）</a>
+		{% else %}
+暂无数据
 		{% endif %}
 
 
-## 近期历史
+## 学校公告
 
 <div class="tiles">
-{% for post in site.categories.history limit:5 %}
+{% for post in site.categories.notice limit:5 %}
 	{% include post-list-cn.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
 
 
-{% if site.categories.history.size %}
-<a href="./history/">查看所有故事（共 {{ site.categories.history.size }} 篇）</a>
+{% if site.categories.nitice.size %}
+<a href="./history/">查看所有（共 {{ site.categories.history.size }} 篇）</a>
 		{% else %}
-暂无历史类文章
+暂无数据
 		{% endif %}
 
