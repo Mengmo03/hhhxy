@@ -2,10 +2,10 @@
 layout: article
 title: "在火星上如何通过星空辨别方向"
 modified: 2014-10-17 #2014-08-27T11:57:41-04:00
-author: InterImm
+author: hhxy
 toc: false
 comments: true
-categories: science
+categories: news
 summary: 火历二十四年，火星上并没有一个像当时地球上北极星这样的亮星来作为指极星。但是只需要找到天津四和仙王座阿尔法，它们连线中点始终指向北。
 ---
 
