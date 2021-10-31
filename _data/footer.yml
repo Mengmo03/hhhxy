@@ -1,10 +1,16 @@
 # Footer navigation links
 
-- title: 订阅
-  url: /subscribe/
+- title: WebVPN
+  url: https://webvpn.hhhxy.cn/
 
-- title: 新浪微博
-  url: http://weibo.com/iiaofficial
+- title: OA办公
+  url: http://oa.hhhxy.cn:8086/
 
-- title: GitHub
-  url: http://github.com/InterImm
+- title: 教务系统
+  url: http://jw.hhhxy.cn/home.aspx
+  
+- title: 科研系统
+  url: http://ky.hhhxy.cn:81/
+  
+- title: 图书馆
+  url: http://tsg.hhhxy.cn/
