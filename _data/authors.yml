@@ -1,5 +1,5 @@
 example:
-    name: 黑河学院
+    name: hhxy
     display_name: 黑河学院 # 这是真的显示的名字
     gravatar:  # 国内网络环境请勿使用，因为已经被墙了
     avatar: interimm.png # 这是你的头像的文件名。头像在 `images/authors` 目录中。无需填写目录，只需填写文件名称。
