@@ -2,10 +2,10 @@
 layout: article
 title: "火星的日落"
 modified: 2014-10-18 #2014-08-27T11:57:41-04:00
-author: OctoMiao
+author: hhxy
 toc: false
 comments: true
-categories: stories
+categories: covid
 summary: 火星的日落常常呈现出与地球完全不同的景象，比如著名的蓝色日落。
 ---
 
