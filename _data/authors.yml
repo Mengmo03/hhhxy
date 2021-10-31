@@ -4,7 +4,7 @@ hhxy:
     gravatar:  # 国内网络环境请勿使用，因为已经被墙了
     avatar: hhxy.png # 这是你的头像的文件名。头像在 `images/authors` 目录中。无需填写目录，只需填写文件名称。
     email: i@hhxy.ml   
-    web: hhxy.ml
+    web: http://hhxy.ml
     weibo: # 微博链接
     bio: "黑河学院欢迎您！"
     douban: # 豆瓣链接
