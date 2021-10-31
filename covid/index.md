@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 星际移民的故事
+title: 疫情防控
 ---
 
 
@@ -9,9 +9,9 @@ title: 星际移民的故事
 
 
 {% if site.categories.stories.size %}
-共有 {{ site.categories.stories.size }} 篇故事类文章
+共有 {{ site.categories.stories.size }} 篇疫情防控类文章
 		{% else %}
-暂无故事类文章
+暂无文章
 		{% endif %}
 
 <div class="tiles">
