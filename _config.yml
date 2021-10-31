@@ -2,13 +2,13 @@
 
 title: 黑河学院
 subtitle: "黑河学院"
-description: "黑河学院欢迎您！"
-version: "" # 这是版本号，可以留空。
+description: "欢迎来到北疆国门大学！"
+version: "麻了" # 这是版本号，可以留空。
 logo: logo-120x120.png # 120x120 px 的 logo 文件
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: zh-cn # 默认设置成中文了，如果都是英文内容可以改为英文。
-url: http://mengmo03.github.io/planets-jekyll # 你的网站的 url 
-baseurl:  # baseurl 设置请参阅 jekyll 的文档
+url: http://mengmo03.github.io/ # 你的网站的 url 
+baseurl: /hhhxy # baseurl 设置请参阅 jekyll 的文档
 
 # Jekyll configuration
 
@@ -45,9 +45,9 @@ owner:
     ad-slot: 
   bio: "黑河学院欢迎您！"
   avatar: logo-120x120.png # 160x160 px image for author byline
-  weibo:   # 这是微博账号，星际移民中心 只是个例子
+  weibo:   # 这是微博账号
 disqus-shortname: xxxxxx  # 这是你的 disqus 评论框的代码，如果使用英文模板请填写
-duoshuo-shortname: planets-jekyll # 请填写。这是你的 duoshuo 代码，中文模板请填写
+duoshuo-shortname:  # 请填写。这是你的 duoshuo 代码，中文模板请填写
 
 
 
