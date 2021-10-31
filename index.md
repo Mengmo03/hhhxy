@@ -41,7 +41,7 @@ title:
 </div><!-- /.tiles -->
 
 	{% if site.categories.news.size %}
-<a href="./stories/">查看所有（共 {{ site.categories.stories.size }} 篇）</a>
+<a href="./news/">查看所有（共 {{ site.categories.news.size }} 篇）</a>
 		{% else %}
 暂无数据
 		{% endif %}
@@ -59,7 +59,7 @@ title:
 
 
 	{% if site.categories.covid.size %}
-<a href="./stories/">查看所有（共 {{ site.categories.stories.size }} 篇）</a>
+<a href="./stories/">查看所有（共 {{ site.categories.covid.size }} 篇）</a>
 		{% else %}
 暂无数据
 		{% endif %}
@@ -75,8 +75,8 @@ title:
 
 
 
-{% if site.categories.nitice.size %}
-<a href="./history/">查看所有（共 {{ site.categories.history.size }} 篇）</a>
+{% if site.categories.notice.size %}
+<a href="./history/">查看所有（共 {{ site.categories.notice.size }} 篇）</a>
 		{% else %}
 暂无数据
 		{% endif %}
