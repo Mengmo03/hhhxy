@@ -2,10 +2,10 @@
 layout: article
 title: "太阳系内行星的符号"
 modified: 2014-10-17 #2014-08-27T11:57:41-04:00
-author: InterImm
+author: hhxy
 toc: false
 comments: true
-categories: til
+categories: notice
 summary: 水星的符号是 ☿ ，金星的符号是 ♀ ，地球的符号是 ⊕ ，火星的符号是 ♂ ，木星的符号是 ♃ ，土星的符号是 ♄ ，天王星的符号是 ⛢ ，海王星的符号是 ♆ 。
 ---
 
