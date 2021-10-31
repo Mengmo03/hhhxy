@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 星际移民的科学
+title: 学校公告
 ---
 
 
@@ -9,9 +9,9 @@ title: 星际移民的科学
 
 
 {% if site.categories.history.size %}
-共有 {{ site.categories.history.size }} 篇历史类文章
+共有 {{ site.categories.history.size }} 篇公告
 		{% else %}
-暂无历史类文章
+暂无公告
 		{% endif %}
 
 <div class="tiles">
