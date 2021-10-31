@@ -2,7 +2,7 @@
 
 title: 黑河学院
 subtitle: "黑河学院"
-description: "欢迎来到北疆国门大学！"
+description: "黑河学院，给您一个出乎意料的上学体验！"
 version: "麻了" # 这是版本号，可以留空。
 logo: logo-120x120.png # 120x120 px 的 logo 文件
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -43,7 +43,7 @@ owner:
   google:
     ad-client:
     ad-slot: 
-  bio: "黑河学院，给您一个出乎意料的大学体验！"
+  bio: "黑河学院欢迎您！"
   avatar: logo-120x120.png # 160x160 px image for author byline
   weibo:   # 这是微博账号
 disqus-shortname:   # 这是你的 disqus 评论框的代码，如果使用英文模板请填写
