@@ -8,12 +8,12 @@ share: false
 
 （排名不分先后）
 
-![Github](https://github.com/)
+[Github](https://github.com/)
 
-!RackNerd](https://racknerd.com/)
+[RackNerd](https://racknerd.com/)
 
-![Hurricane Electric Internet Services](http://he.net/)
+[Hurricane Electric Internet Services](http://he.net/)
 
-![LM](https://github.com/emptymalei/)
+[LM](https://github.com/emptymalei/)
 
-![虞建东](https://github.com/yujiandong/)
+[虞建东](https://github.com/yujiandong/)
