@@ -36,7 +36,7 @@ title:
 
 ---
 
-## 最新新闻
+## 站务新闻
 
 <div class="tiles">
 {% for post in site.categories.news limit:5 %}
@@ -49,39 +49,3 @@ title:
 		{% else %}
 暂无数据
 		{% endif %}
-
-## 疫情防控
-
-<div class="tiles">
-
-{% for post in site.categories.covid limit:5 %}
-	{% include post-list-cn.html %}
-{% endfor %}
-
-</div><!-- /.tiles -->
-
-
-
-	{% if site.categories.covid.size %}
-<a href="./stories/">查看所有（共 {{ site.categories.covid.size }} 篇）</a>
-		{% else %}
-暂无数据
-		{% endif %}
-
-
-## 学校公告
-
-<div class="tiles">
-{% for post in site.categories.notice limit:5 %}
-	{% include post-list-cn.html %}
-{% endfor %}
-</div><!-- /.tiles -->
-
-
-
-{% if site.categories.notice.size %}
-<a href="./history/">查看所有（共 {{ site.categories.notice.size }} 篇）</a>
-		{% else %}
-暂无数据
-		{% endif %}
-
