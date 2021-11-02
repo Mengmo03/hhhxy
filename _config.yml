@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: 黑河学院
+title: 黑河学院.麻了
 subtitle: "黑河学院"
-description: "黑河学院，给您一个出乎意料的上学体验！"
+description: "黑河学院，给您一个意想不到的上学体验！"
 version: "麻了" # 这是版本号，可以留空。
 logo: logo-120x120.png # 120x120 px 的 logo 文件
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -37,7 +37,7 @@ cover_image: front-cover.jpg
 
 # Site owner
 owner:
-  name: "黑河学院"  # 网站名称设置
+  name: "黑河学院.麻了"  # 网站名称设置
   email: i@hhxy.ml  # 默认 email 设置
   twitter:  # 保留了原来的设置，但是这部分在所有中文的“作者名片”模板中失效了。
   google:
