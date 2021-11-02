@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 新闻
+title: 站务新闻
 ---
 
 
