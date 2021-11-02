@@ -3,11 +3,11 @@
 - title: 站务新闻
   url: /news/
   excerpt: ""
-  
-- title: 致谢
-  url: /thanks/
-  excerpt: ""
-  
+
 - title: 项目文档
   url: /projects/
+  excerpt: ""
+
+- title: 致谢
+  url: /thanks/
   excerpt: ""
