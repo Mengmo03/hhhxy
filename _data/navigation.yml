@@ -1,19 +1,9 @@
 # Site navigation links
 
-- title: 新闻
+- title: 站务新闻
   url: /news/
-  excerpt: "学院新闻"
-
-
-- title: 防疫
-  url: /covid/
-  excerpt: "防疫相关"
-
-
-- title: 公告
-  url: /notice/
-  excerpt: "学院公告"
+  excerpt: ""
   
-- title: 关于
-  url: /about/
-  excerpt: "关于页面"
+- title: 鸣谢
+  url: /thanks/
+  excerpt: ""
