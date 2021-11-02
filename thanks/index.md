@@ -17,3 +17,5 @@ share: false
 [LM](https://github.com/emptymalei/)
 
 [虞建东](https://github.com/yujiandong/)
+
+[微信公众平台](https://mp.weixin.qq.com/)
