@@ -34,7 +34,7 @@ title:
 
 [麻了树洞](https://hhxy.ml/projects/treehole/)
 
-[盲盒交友]()
+[盲盒交友](https://hhxy.ml/projects/blindbox/)
 
 如果你有什么好玩的想法，欢迎告诉我们！在论坛 [向管理员发送私信](http://q.hhxy.ml/member/admin) 、在 [微信公众号](https://i.loli.net/2021/11/02/Fd4MIkjWBUOxpSJ.jpg) 直接回复或向 [i@hhxy.ml](mailto:i@hhxy.ml)  发送邮件都可以联系到我们！
 
